@@ -276,6 +276,16 @@ section{
        
 
     }
+    section .title {
+        display: flex;
+        justify-content: center;
+        color: #3a6cf4;
+        font-size: 1.4em;
+        font-weight: 800;
+        margin-bottom: 30px;
+     
+    }
+
     .main h2{
         font-size: 1.5em;
     }
@@ -310,13 +320,13 @@ section{
     .card {
         width: 19em;
         padding: 20px;
-        margin-left: -55px;
+        margin-left: -60px;
         margin-right: 600px;  
         }
     .project-card {
         width: 27em;
-        margin-left: -88px;
-        margin-right: 600px;     
+        margin-left: -110px;
+        margin-right: -60px;     
     }
 }
 @media (max-width:641px){
