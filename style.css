@@ -315,3 +315,11 @@ section {
      
     }
 }
+@media (max-width: 500px){
+
+    .main
+{
+    background: none;
+  }
+  
+ }
