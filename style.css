@@ -316,10 +316,9 @@ section {
     }
 }
 @media (max-width: 500px){
+    .main{
+        background-color:  #0e0c67;
+        background-image: none;
+    }
 
-    .main
-{
-    background: none;
-  }
-  
- }
+}
