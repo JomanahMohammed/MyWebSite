@@ -250,7 +250,7 @@ section {
 }
 
 .footer-title {
-    font-size: 1em;
+    font-size: 0.7em;
     font-weight: 600;
 }
 
@@ -259,7 +259,7 @@ section {
 }
 
 .footer .social-icons a{
-    font-size: 1em;
+    font-size: 0.7em;
     padding: 0 12px 0 0;
 }
 
